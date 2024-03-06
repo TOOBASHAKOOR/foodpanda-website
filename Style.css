@@ -1,0 +1,128 @@
+.div1
+{
+    background-color: rgb(224, 18, 121);
+   padding-left: 250px;
+   padding-top: 1px;
+   padding-right: 50px;
+   padding-bottom: 1px;
+}
+.ul li
+{
+    display: inline;
+    margin: 30px;   
+    font-size: 30px;
+    color: white;
+}
+#button1
+{
+    height: 48px;
+    width: 126.59px;
+    background-color: rgb(224, 18, 121);
+    border-color:#ffffff;
+    color: #ffffff;
+}
+#button1:hover
+{
+    background-color: white;
+    color: rgb(187, 11, 128);
+    cursor: pointer;
+}
+.div2
+{
+    background-color: white;
+    box-sizing: border-box;
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0%;
+}
+#img1
+{
+    padding-left: 5px;
+    margin: 30px;
+}
+#img2
+{
+    padding-left: 450px;
+    margin: 30px;
+}
+#img3
+{
+    padding-left: 500px;
+    margin: 30px;
+}
+.contant1
+{
+    height: 762px;
+    width: 216;
+    background-color: antiquewhite;
+    margin: 0%;
+    padding: 0%;
+}
+ .contant2
+{
+padding-left: 10px;
+margin-right: 30px;
+font-size: 30px;
+}
+table tr td
+{
+    margin: 0%;
+    padding: 0%;
+}
+#button2
+{
+    background-color:rgb(209, 14, 105);
+    color: #ffffff;
+   width: 800px;
+   height: 90x;
+}
+
+.imag
+{
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.group
+{
+    padding-left: 3%;
+}
+.download
+{
+ padding-left: 3%;
+ padding-top: 30px;
+ font-size: 20px;
+}
+.new
+{
+    padding-top: 60px;
+}
+.group2
+{
+    width: 80%;
+}
+.material
+{
+    padding: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mat1
+{
+    font-size: 35px;
+}
+.mat2
+{
+    font-size: 30px;
+}
+.mat3
+{
+    font-size: 25px;
+}
+.mat4
+{
+    font-size: 15px;
+}
+.mat5
+{
+    font-size: 20px;
+}
